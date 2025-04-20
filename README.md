@@ -1,0 +1,2 @@
+# RESCUE-X-IOT-BASED-SMART-ACCIDENT-DETECTION-AND-EMERGENCY-DISPATCH-SYSTEM-
+This project detects accidents using an ESP32 and MEMS sensor, then sends the location via GSM to a web server. Ambulance drivers can log in through a web app to view real-time accident locations on a map, allowing faster response and rescue. The system improves emergency response using IoT, sensors, and web technologies.
